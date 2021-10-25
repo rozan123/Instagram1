@@ -71,13 +71,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/rozan123/Instagram1/blob/cfbfe24db30540bcedd885f9eecfdb9ef1ec80de/instagramPart2_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had some challenge with the logout and getting the current profile. I still have some confusion with it.
 
 ## Open-source libraries used
 
