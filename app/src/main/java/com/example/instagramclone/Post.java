@@ -12,6 +12,7 @@ public class Post extends ParseObject {
     public static final String KEY_DESCRIPTION = "description";
     public static final String KEY_IMAGE = "image";
     public static final String KEY_USER = "user";
+    public static final String KEY_CREATED_KEY = "createdAt";
 
     //########## Setup the geter and seter for each attribute on the post #####
 
